@@ -8,9 +8,8 @@ Permitir que pessoas pratiquem code review de maneira empática, construtiva e t
 
 ## Como usar
 
-1. Leia o código na pasta `exemplos/`.
+1. Leia o código na pasta `examples/`.
 2. Pratique escrever comentários de revisão baseados em CNV.
-3. Compare com sugestões de feedback em breve disponíveis na pasta `respostas/`.
 
 ## Contribuindo
 
